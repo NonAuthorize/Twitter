@@ -30,7 +30,7 @@
 }
 
 - (IBAction)tapRetweet:(id)sender {
-    self.likeButton.text = [NSString ]
+  //  self.likeButton.text = [NSString ]
 }
 
 
